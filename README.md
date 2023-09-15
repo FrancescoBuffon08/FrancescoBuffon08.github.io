@@ -1,2 +1,2 @@
-# FrancescoBuffon08.github.io
+# FrancescoBuffon08
 Sito per gestire gli appunti presi a lezione
