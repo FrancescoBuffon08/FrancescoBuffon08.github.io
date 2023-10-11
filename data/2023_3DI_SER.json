@@ -1,8 +1,8 @@
 {
   "lessons": [
     {
-      "date": "12/09/2023",
-      "title": "Lezione 1",
+      "date": "10/10/2023",
+      "title": "Introduzione alla CPU",
       "text": "1.html",
       "text_made_by": "Francesco Buffon",
       "questions": "1_questions.json"
